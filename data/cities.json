@@ -1,28 +1,5 @@
 {
   "cities": [
-    {
-      "cityName": "Vilanova d'Alcolea",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-05-15T12:11:51.126Z",
-      "notes": "salalm",
-      "position": {
-        "lat": "40.23550866893913",
-        "lng": "0.14419555664062503"
-      },
-      "id": 2
-    },
-    {
-      "cityName": "Idanha-a-Nova",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-05-15T12:12:01.274Z",
-      "notes": "hello",
-      "position": {
-        "lat": "39.842286020743394",
-        "lng": "-7.229003906250001"
-      },
-      "id": 3
-    }
+    
   ]
 }
